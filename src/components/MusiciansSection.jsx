@@ -4,25 +4,25 @@ import { motion } from 'framer-motion';
 const MusiciansSection = () => {
   const musicians = [
     {
-      name: 'Fulan Al-Maqami',
+      name: 'MUSISI',
       role: 'Vokalis & Pemain Oud',
       bio: '"Suara adalah jembatan antara hati dan Arsy. Setiap senandung adalah upaya menggapai-Nya."',
       image: 'Portrait of a male vocalist and oud player with a serene expression',
     },
     {
-      name: 'Aisyah An-Nayyira',
+      name: 'MUSISI',
       role: 'Pemain Ney & Daf',
       bio: '"Tiupan ney adalah rintihan jiwa yang merindukan asalnya. Irama daf adalah detak jantung alam semesta."',
       image: 'Portrait of a female musician playing a ney flute with eyes closed',
     },
     {
-      name: 'Zayn Al-Qanuni',
+      name: 'MUSISI',
       role: 'Pemain Qanun',
       bio: '"Setiap dawai qanun menceritakan kisah para pencari. Getarannya adalah gema dzikir yang tak pernah henti."',
       image: 'Portrait of a male musician skillfully playing the qanun instrument',
     },
     {
-      name: 'Rumi Al-Banjari',
+      name: 'MUSISI',
       role: 'Perkusionis & Rebana',
       bio: '"Dalam pukulan rebana, kutemukan ritme penyerahan diri. Sebuah ketukan yang menyatukan semua ciptaan."',
       image: 'Portrait of a percussionist playing a rebana with joyful energy',
